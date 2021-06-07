@@ -1,2 +1,2 @@
 # QZQ-go.github.io
-PageStorage
+This is a PageStorage
