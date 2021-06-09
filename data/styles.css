@@ -16,6 +16,8 @@
 }
 .ellipse {
 }
+.shape {
+}
 .image {
 }
 .heading_1 {
@@ -66,5 +68,9 @@
   color:#999999;
 }
 .form_disabled {
+}
+.flow_shape {
+}
+.connector {
 }
 textarea, select, input, button { outline: none; }
