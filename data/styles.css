@@ -64,6 +64,8 @@
 .paragraph {
   text-align:left;
 }
+.line {
+}
 .form_hint {
   color:#999999;
 }
@@ -72,5 +74,7 @@
 .flow_shape {
 }
 .connector {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
